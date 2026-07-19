@@ -131,6 +131,6 @@ This project is released under the MIT License.
 
 **Sudharshini Kannan**
 
-M.Sc. Agrobiotechnology (Bioinformatics & NGS)
+Computational Biologist, M.Sc. Agrobiotechnology 
 
 GitHub: https://github.com/sudharshini-kannan
