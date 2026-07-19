@@ -22,8 +22,8 @@ This repository contains a step-by-step RNA-seq pipeline covering:
 RNA-seq-Training/
 │
 ├── raw_data/
-├── reference/          # Downloaded locally (ignored by Git)
-├── results/            # Generated during analysis (ignored by Git)
+├── reference/          
+├── results/            
 ├── scripts/
 │   ├── 01_fastqc.sh
 │   ├── 02_trimming.sh
